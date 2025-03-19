@@ -1,3 +1,7 @@
 {
-  "mcpServers": {}
+  "mcpServers": {
+    "time": {
+      "url": "https://router.mcp.so/sse/iizlijm8fcruqe"
+    }
+  }
 }
